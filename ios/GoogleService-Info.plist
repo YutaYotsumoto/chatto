@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>78350913083-jst968lnhpvsel4ecqtgcfa36cdq7o34.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.78350913083-jst968lnhpvsel4ecqtgcfa36cdq7o34</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDl5kZSTqWYqHig_i0K4jlwvx5ifWSvLFo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>78350913083</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.native.example.chatto</string>
+	<key>PROJECT_ID</key>
+	<string>chatto0529</string>
+	<key>STORAGE_BUCKET</key>
+	<string>chatto0529.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:78350913083:ios:f2c4ea574a37453c3d561e</string>
+</dict>
+</plist>
